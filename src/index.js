@@ -48,7 +48,6 @@ const onClickAdd = () => {
 
     // 完了リストに配置
     document.getElementById("complete-list").appendChild(completeTarget);
-    console.log(completeTarget);
   });
 
   // 削除ボタン
